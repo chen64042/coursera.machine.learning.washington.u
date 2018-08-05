@@ -26,14 +26,14 @@ These were done in Anaconda 3, Python 2.7 environment. I didn't follow the instr
 * Remove anaconda 2 installation through the terminal. `rm -Rf /home/[username]/anaconda`
 
 ### Test Your Cloned Environment
-* On Anaconda 3, launch Jupyther Notebook
+* On Anaconda 3, launch Jupyter Notebook
 * Open a python notebook provided from the class.
 * Make sure you don't see any errors.
 * On Python Notebook, go to "Cells -> Run All"
 * Make sure you see the output.
 
 ### Troubleshooting
-* For some reason I got Server Error after I removed the old environment.
+* For some reason I got Server Error after I removed the old environment. I figured out how to fix it manually.
 * Open a terminal.
 * Type `which conda` to make sure you're operating under Anaconda 3 profile. (Anaconda should have created a `.bash_profile` under your home directory and prefix the PATH variable with Anaconda 3)
 * Activate your cloned environment. `source activate [Your Cloned Environment Name]`
