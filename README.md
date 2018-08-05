@@ -14,7 +14,7 @@ These were done in Anaconda 3, Python 2.7 environment. I didn't follow the instr
 * Upgrade pip `conda update pip`
 * Install the license `pip install --upgrade --no-cache-dir https://get.graphlab.com/GraphLab-Create/2.1/[Your Email Address]/[Your License Code]/GraphLab-Create-License.tar.gz`
 * Install Jupyter Notebook `conda install ipython-notebook`
-* Install graphlab-create package `conda install -c derickl graphlab-create`. Maybe I didn't do it right but the launcher doesn't install it for me and I have to install this manually. I have tried to repeat this process a few times and it always turns out that I must install this manually
+* Install graphlab-create package `conda install -c derickl graphlab-create`. Maybe I didn't do it right but the launcher doesn't install the package for me and I have to install this manually. I have tried to repeat this process a few times and it always turns out that I must install this manually
 
 ### Setting up Anaconda 3
 * Download [Anaconda 3](https://www.anaconda.com/download/#macos). Choose the one for Python 3.
