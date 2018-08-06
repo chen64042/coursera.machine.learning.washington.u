@@ -2,7 +2,7 @@
 Homework from Machine Learning Courses Offered by Washington U
 
 ## Environment
-These were done in Anaconda 3, Python 2.7 environment. I didn't follow the instructions exactly as the version of Anaconda provided in the package was too old. This was what I did *(MacOS 10.13.6)*: 
+These were done in Anaconda 3, Python 2.7 environment. I didn't follow the instructions exactly as the version of Anaconda provided in the package was too old. The following was what I did *(MacOS 10.13.6)*: 
 
 ### Setting Up Environment
 * Go to [GraphLab site](https://turi.com/download/install-graphlab-create.html) and download GraphLab Create Launcher
