@@ -8,7 +8,7 @@ These were done in Anaconda 3, Python 2.7 environment. I didn't follow the instr
 * Go to [GraphLab site](https://turi.com/download/install-graphlab-create.html) and download GraphLab Create Launcher
 * Request [Acedamic License](https://turi.com/download/academic.html)
 * Install the downloaded package. This will install Anaconda 2, create an Anaconda 2 environmet called gl-env
-* Open a terminal, type `source activate gl-dev` to enter gl-env environment
+* Open a terminal, type `source activate gl-env` to enter gl-env environment
 
 #### The following steps must be execuated when gl-env is active.
 * Upgrade pip `conda update pip`
